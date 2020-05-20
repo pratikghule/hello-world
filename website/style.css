@@ -5,6 +5,8 @@ html, body {
   height: 100%;
   margin: 0px;
   padding: 0px;
+ font-family: 'Open Sans', sans-serif;
+
 }
 
 .wrapper {
@@ -31,7 +33,10 @@ html, body {
   align-items: center;
   justify-content: center;
 }
-
+.name {
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 2px;
+}
 .profile-pic {
   border-radius: 50%;
 }
